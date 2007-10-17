@@ -14,6 +14,9 @@
 #    with this program; if not, write to the Free Software Foundation, Inc.,
 #    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-def index(req):
-    from backend.configuration import DATABASE_ENGINE
-    return DATABASE_ENGINE
+class Base:
+    id = None
+    def get(self, id):
+        pass
+    def filter(self, column, value):
+        pass

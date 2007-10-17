@@ -15,6 +15,19 @@
 #    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 from mod_python import Session
+from base import Model
+import backend.dbhelper.db
 
-def login(req):
-    session = Session.Session(req)
+class User(Model):
+    def get(self, id):
+        if DATABASE_ENGINE is 'mysql':
+            db=db.connect()
+    def login(self, req):
+        session = Session.Session(req)
+        session['user'] = {
+            'id': self.id,
+            'name': self.name,
+            'username': self.username,
+            'level': self.level,
+        }
+        session.save()
