@@ -1,0 +1,10 @@
+{
+	"type": "application",
+	"name": "Administration Panel",
+	"author": "HFLW",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "System",
+	"filetypes": []
+}

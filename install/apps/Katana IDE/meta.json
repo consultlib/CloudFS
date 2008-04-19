@@ -1,0 +1,10 @@
+{
+	"type": "application",
+	"name": "Katana IDE",
+	"author": "HFLW + NefariousD",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Development",
+	"filetypes": []
+}

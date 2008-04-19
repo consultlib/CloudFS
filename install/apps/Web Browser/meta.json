@@ -1,0 +1,10 @@
+{
+	"type": "application",
+	"name": "Web Browser",
+	"author": "HFLW",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Internet",
+	"filetypes": ["text/x-uri"]
+}
