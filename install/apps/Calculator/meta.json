@@ -1,5 +1,6 @@
 {
 	"type": "application",
+	"sysname": "Calculator",
 	"name": "Calculator",
 	"author": "HFLW",
 	"email": "me@hflw.org",

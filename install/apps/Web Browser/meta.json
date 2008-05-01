@@ -1,5 +1,6 @@
 {
 	"type": "application",
+	"sysname": "WebBrowser",
 	"name": "Web Browser",
 	"author": "HFLW",
 	"email": "me@hflw.org",

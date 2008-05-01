@@ -1,5 +1,6 @@
 {
 	"type": "application",
+	"sysname": "MusicPlayer",
 	"name": "Music Player",
 	"author": "HFLW",
 	"email": "me@hflw.org",

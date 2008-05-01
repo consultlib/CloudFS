@@ -1,5 +1,6 @@
 {
 	"type": "application",
+	"sysname": "ImageViewer",
 	"name": "Image Viewer",
 	"author": "HFLW",
 	"email": "me@hflw.org",

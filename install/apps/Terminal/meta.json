@@ -1,5 +1,6 @@
 {
 	"type": "application",
+	"sysname": "Terminal",
 	"name": "Terminal",
 	"author": "HFLW",
 	"email": "me@hflw.org",
