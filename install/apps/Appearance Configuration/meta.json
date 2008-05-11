@@ -1,0 +1,11 @@
+{
+	"type": "application",
+	"sysname": "AppearanceConfig",
+	"name": "Appearance",
+	"author": "HFLW",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Preferences",
+	"filetypes": []
+}
