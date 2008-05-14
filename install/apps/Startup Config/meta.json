@@ -1,0 +1,12 @@
+{
+	"type": "application",
+	"sysname": "StartupConfig",
+	"name": "Startup",
+	"author": "HFLW",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Preferences",
+	"icon": "icon-16-apps-preferences-system-session",
+	"filetypes": []
+}
