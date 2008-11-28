@@ -1,0 +1,12 @@
+{
+	"type": "application",
+	"sysname": "Todo",
+	"name": "Todo",
+	"author": "HFLW",
+	"email": "me@hflw.org",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Office",
+	"filetypes": [],
+	"compatible": ["1.0.0"]
+}
